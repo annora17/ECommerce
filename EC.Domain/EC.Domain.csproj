@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<Authors>Alper Kocdan</Authors>
+		<Description>It is the core layer of the application.</Description>
+		<Copyright>Copyright 2022</Copyright>
+		<NeutralLanguage>en</NeutralLanguage>
+	</PropertyGroup>
+
+</Project>

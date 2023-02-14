@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Alper Kocdan</Authors>
+    <Description>It contains and manages the business rules of the application.</Description>
+    <Copyright>Copyright 2022</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Specifications\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EC.Domain\EC.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
